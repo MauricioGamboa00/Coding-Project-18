@@ -1,5 +1,8 @@
-import React from 'react';
-import Greetings from './Components/Greetings';
+import React from 'react'; // Importing React to create a React component
+
+import Greetings from './Components/Greetings'; // Importing the Greetings component from the Components folder
+
+// Creating a new component called App
 
 function App() {
     return (
@@ -9,5 +12,5 @@ function App() {
         </div>
     );
 }
-export default App;
+export default App; // Exporting the App component
   

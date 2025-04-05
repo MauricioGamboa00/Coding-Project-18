@@ -1,4 +1,6 @@
-import React from "react";
+import React from "react"; // Importing React to Create React Component
+
+// Creating a new component called Greetings
 
 function Greetings() {
     return (
@@ -9,4 +11,4 @@ function Greetings() {
     );
 }
 
-export default Greetings;
+export default Greetings; // Exporting the Greetings component so it can be used in app.jsx
